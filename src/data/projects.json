@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "This is a project made to fetch the latest weather condition by building an app.",
+    "skills": ["React", "Html", "Css", "MUI"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Gym Website",
+    "imageSrc": "projects/gym.png",
+    "description": "This is a project made for a Gym to view its services and features by building an app.",
+    "skills": ["React", "Tailwind", "Vite"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "zCon Solutions ",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Developed Web App and Mobile App", "Optimised the Code by 50%"],
+    "imageSrc": "history/zcon.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Cerence",
+    "startDate": "Jan, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Enhanced the website", "Designed the modules"],
+    "imageSrc": "history/cerenceai.png"
+  }
+]
